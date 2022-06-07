@@ -1,0 +1,12 @@
+P:\BOT\modulo 4\unidad6\blazor\Inventory\Entities\Entities\bin\Debug\net5.0\Entities.deps.json
+P:\BOT\modulo 4\unidad6\blazor\Inventory\Entities\Entities\bin\Debug\net5.0\Entities.dll
+P:\BOT\modulo 4\unidad6\blazor\Inventory\Entities\Entities\bin\Debug\net5.0\ref\Entities.dll
+P:\BOT\modulo 4\unidad6\blazor\Inventory\Entities\Entities\bin\Debug\net5.0\Entities.pdb
+P:\BOT\modulo 4\unidad6\blazor\Inventory\Entities\Entities\obj\Debug\net5.0\Entities.csproj.AssemblyReference.cache
+P:\BOT\modulo 4\unidad6\blazor\Inventory\Entities\Entities\obj\Debug\net5.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+P:\BOT\modulo 4\unidad6\blazor\Inventory\Entities\Entities\obj\Debug\net5.0\Entities.AssemblyInfoInputs.cache
+P:\BOT\modulo 4\unidad6\blazor\Inventory\Entities\Entities\obj\Debug\net5.0\Entities.AssemblyInfo.cs
+P:\BOT\modulo 4\unidad6\blazor\Inventory\Entities\Entities\obj\Debug\net5.0\Entities.csproj.CoreCompileInputs.cache
+P:\BOT\modulo 4\unidad6\blazor\Inventory\Entities\Entities\obj\Debug\net5.0\Entities.dll
+P:\BOT\modulo 4\unidad6\blazor\Inventory\Entities\Entities\obj\Debug\net5.0\ref\Entities.dll
+P:\BOT\modulo 4\unidad6\blazor\Inventory\Entities\Entities\obj\Debug\net5.0\Entities.pdb

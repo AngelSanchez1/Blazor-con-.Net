@@ -1,0 +1,39 @@
+﻿<h3>Form01</h3>
+
+<div>
+    <h5>nombre</h5>
+    <input type="text" @bind-value="@message" />
+    <input type="button" value="Enviar" onclick="ChangeText" />
+    <h5>edad</h5>
+    <input type="text" @bind-value="@nombre" />
+    <input type="button" value="Enviar" onclick="ChangeText" />
+
+</div>
+<div>
+    @message
+</div>
+
+<div>
+    @nombre
+</div>
+
+@code{
+    [Parameter]
+    public string Message { get; set; }
+
+    string message = "";
+    string nombre = "";
+    string text;
+    string text1;
+
+    protected override async Task OnInitializedAsync()
+    {
+        message = Message;
+    }
+
+    private void ChangeText()
+    {
+        message = text;
+        nombre = text1;
+    }
+}

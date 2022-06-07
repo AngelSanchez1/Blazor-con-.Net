@@ -1,0 +1,17 @@
+P:\BOT\modulo 4\unidad6\blazor\Inventory\Business\bin\Debug\net5.0\Business.deps.json
+P:\BOT\modulo 4\unidad6\blazor\Inventory\Business\bin\Debug\net5.0\Business.dll
+P:\BOT\modulo 4\unidad6\blazor\Inventory\Business\bin\Debug\net5.0\ref\Business.dll
+P:\BOT\modulo 4\unidad6\blazor\Inventory\Business\bin\Debug\net5.0\Business.pdb
+P:\BOT\modulo 4\unidad6\blazor\Inventory\Business\bin\Debug\net5.0\DataAcces.dll
+P:\BOT\modulo 4\unidad6\blazor\Inventory\Business\bin\Debug\net5.0\Entities.dll
+P:\BOT\modulo 4\unidad6\blazor\Inventory\Business\bin\Debug\net5.0\DataAcces.pdb
+P:\BOT\modulo 4\unidad6\blazor\Inventory\Business\bin\Debug\net5.0\Entities.pdb
+P:\BOT\modulo 4\unidad6\blazor\Inventory\Business\obj\Debug\net5.0\Business.csproj.AssemblyReference.cache
+P:\BOT\modulo 4\unidad6\blazor\Inventory\Business\obj\Debug\net5.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+P:\BOT\modulo 4\unidad6\blazor\Inventory\Business\obj\Debug\net5.0\Business.AssemblyInfoInputs.cache
+P:\BOT\modulo 4\unidad6\blazor\Inventory\Business\obj\Debug\net5.0\Business.AssemblyInfo.cs
+P:\BOT\modulo 4\unidad6\blazor\Inventory\Business\obj\Debug\net5.0\Business.csproj.CoreCompileInputs.cache
+P:\BOT\modulo 4\unidad6\blazor\Inventory\Business\obj\Debug\net5.0\Business.csproj.CopyComplete
+P:\BOT\modulo 4\unidad6\blazor\Inventory\Business\obj\Debug\net5.0\Business.dll
+P:\BOT\modulo 4\unidad6\blazor\Inventory\Business\obj\Debug\net5.0\ref\Business.dll
+P:\BOT\modulo 4\unidad6\blazor\Inventory\Business\obj\Debug\net5.0\Business.pdb
